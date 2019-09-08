@@ -112,7 +112,8 @@ export default {
       isShow: false,
       newsId: "",
       isClose:false,
-      title:'首页'
+      title:'首页',
+      shl:'',
     };
   },
   watch: {},
